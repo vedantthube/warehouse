@@ -36,3 +36,64 @@
     transform: rotate(360deg);
   }
 }
+.card{
+  margin-top: 20px;
+}
+.loginimage{
+  height: 500px;
+  width: 1700px;
+}
+.main-page1{
+  justify-content: center;
+ 
+  align-content: center;
+}
+.loginname{
+  padding: 0 550px;
+}
+
+.centered-div {
+  display: flex;
+  justify-content: center;
+  padding: 20px 150px;
+  
+}
+
+.content {
+  text-align: center;
+  width: 40%;
+}
+.form-group {
+  margin-bottom: 15px;
+  
+}
+
+.form-group label {
+  display: block;
+  font-weight: bold;
+}
+
+.form-group input[type="text"],
+.form-group input[type="password"] {
+  width: 100%;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 3px;
+}
+
+.form-group button {
+  width: 100%;
+  padding: 10px;
+  background-color: rgb(242, 183, 34);
+  color: #fff;
+  border: none;
+  border-radius: 3px;
+  cursor: pointer;
+}
+
+.form-group button:hover {
+  background-color: rgb(186, 139, 19);
+}
+.forgot-password{
+  padding-bottom: 30px;
+}

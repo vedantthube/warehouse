@@ -11,3 +11,42 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.button-nav{
+  padding: 10px;
+  margin: 0 5px;
+  border-radius: 30%;
+}
+.button-profile{
+  padding: 15px 15px;
+  margin: 0 20px;
+
+  border-radius: 50%;
+}
+.exploreimg{
+  width: 100%;
+  height: 40vw;
+}
+.warehouse-h1{
+  position: absolute;
+  top: 100px;
+  right: 500px;
+  color: black;;
+  font-size: 56px;
+}
+.btn-primary{
+  position: absolute;
+  bottom: 110px;
+  left: 160px;
+}
+.warehouse-tag{
+  position: absolute;
+  bottom: 160px;
+  left: 140px;
+}
+.metrics,.admin{
+  margin-top: 12px;
+}
+.main-page{
+  padding: 0;
+  background-color: rgb(209, 247, 234);
+}
